@@ -14,7 +14,6 @@ Wayfinder is a sleek navigation app that helps you find the best routes with rea
 
 git clone https://github.com/dshiv15/Wayfinder.git
 cd Wayfinder
-# Install dependencies (example)
 npm install
 
 ▶️ Usage
@@ -30,8 +29,7 @@ Open your browser and go to: [http://localhost:3000](http://localhost:3000)
 Contributions are welcome! Fork the repo, create a branch, and open a pull request.
 
 
-## 📄 License
+📄 License
 
 This project is licensed under the **MIT License**.
 
----
